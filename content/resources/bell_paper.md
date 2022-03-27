@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 935edfe3-3a15-dcc0-cc7f-7043c88cb2f7
 resourcetype: Document
 title: On meritocracy and equality
 uid: 4aff80f5-04e8-f35d-3225-4bcd5b989cb7

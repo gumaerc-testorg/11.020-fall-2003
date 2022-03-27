@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 935edfe3-3a15-dcc0-cc7f-7043c88cb2f7
 resourcetype: Document
 title: Controversies within the Frame of Poverty
 uid: 77e26797-02b1-b796-0ae4-4af88d30e1ff

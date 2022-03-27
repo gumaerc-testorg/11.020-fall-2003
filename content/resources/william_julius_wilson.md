@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 935edfe3-3a15-dcc0-cc7f-7043c88cb2f7
 resourcetype: Document
 title: William Julius Wilson's Call for Revitalization
 uid: a0770e9e-a5bc-b9e4-bdfc-b175fdb9e66b
