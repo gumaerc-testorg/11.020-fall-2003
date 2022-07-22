@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This syllabus section provides a course overview and information on
+  meeting times and requirements. '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 0de14d99-14e6-160e-6404-f16c7458ff0c
 ---
@@ -97,4 +101,4 @@ Lec #22
 
 There are readings that will be handed out in class.
 
-Students are responsible to complete all readings found in the [required texts]({{< baseurl >}}/pages/readings) and reader prior to class.
+Students are responsible to complete all readings found in the {{% resource_link 7689b692-0cfd-bf45-b74f-a29633de5af7 "required texts" %}} and reader prior to class.
