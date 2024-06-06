@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: an essay on controversies within the frame
   of poverty.'
 file: /courses/11-020-poverty-public-policy-and-controversy-fall-2003/77e2679702b1b7960ae44af88d30e1ff_contro_frame_poverty.pdf
+file_size: 30727
 file_type: application/pdf
 learning_resource_types:
 - Assignments
